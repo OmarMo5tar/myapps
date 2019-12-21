@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "19373499419",
+    "firebase_url": "https://gooha-7139e.firebaseio.com",
+    "project_id": "gooha-7139e",
+    "storage_bucket": "gooha-7139e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19373499419:android:eb3c6146183ce283a8c4be",
+        "android_client_info": {
+          "package_name": "com.example.shoppingcart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19373499419-18le03fvujeproij6tvbrd2e3r687esh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd5whT2LlTUAbiiJPz3U3ad29Yzb1REVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19373499419-18le03fvujeproij6tvbrd2e3r687esh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
